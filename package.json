@@ -1,12 +1,16 @@
 {
   "name": "voxel-real-physics-controls",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ERROR: No README.md file found!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
-  "author": "",
-  "license": "BSD"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/timoxley/voxel-real-physics-controls.git"
+  },
+  "author": "Tim Oxley",
+  "license": "MIT",
+  "gitHead": "775fafd67363a2a5d38a7345952acdd0182b3bac"
 }
